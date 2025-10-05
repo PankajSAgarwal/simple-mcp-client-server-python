@@ -1,4 +1,4 @@
-# A simple MCP server and client
+# A simple MCP server and client without any interaction with LLM
 ## MCP server
 - MCP server name `String Reverser`
 - A tool function called `reverse_string` that reverses a String and attaches my name pankaj to it

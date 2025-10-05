@@ -13,7 +13,8 @@ async def main():
             # Initialize the connection
             await session.initialize()
             print("Connected to MCP server")
-            set_trace()
+            """To debug enable set_trace() """
+            # set_trace()
             # Get input from user
             text = input("Enter text to reverse: ")
 
